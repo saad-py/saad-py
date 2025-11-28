@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=600&color=F7F7F7&center=true&width=535&height=100&lines=AI+Engineer.;Building+Intelligence.;Always+Learning.;Data+Whisperer." alt="Typing SVG">
+</p>
+
+
 # Hi, I'm Saad Ahmed 👋  
 
 🚀 AI Engineer | 🧠 Machine Learning | 📊 Data Science | ☁️ Voice & Conversational AI  
@@ -28,8 +33,7 @@ I’m passionate about building **intelligent systems** that combine ML, knowled
 ---
 
 ## 📊 GitHub Stats
-![Saad's GitHub stats](https://github-readme-stats.vercel.app/api?username=saad-py&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saad-py&layout=compact&theme=tokyonight)  
+![Saad's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=saad-py&theme=chartreuse-dark&hide_border=true)
 
 ---
 ✨ Always open to collaborations and innovative projects!
