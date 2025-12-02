@@ -33,7 +33,7 @@ I’m passionate about building **intelligent systems** that combine ML, knowled
 ---
 
 ## 📊 GitHub Stats
-![Saad's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=saad-py&theme=chartreuse-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saad-py&theme=chartreuse-dark&exclude_days=Sun%2CSat)
 
 ---
 ✨ Always open to collaborations and innovative projects!
